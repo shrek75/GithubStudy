@@ -14,3 +14,6 @@
 - 분기만들었음 . Rilla Branch
 
 - B작업자
+
+
+- 새로운작업자가 test-branch에서 작업후 commit
